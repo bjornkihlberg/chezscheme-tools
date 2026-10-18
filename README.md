@@ -1,2 +1,3 @@
-# chezscheme-pkg
-Chez Scheme package manager
+# chezscheme-tools
+
+Chez Scheme development tools
